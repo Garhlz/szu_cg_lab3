@@ -508,7 +508,7 @@ int main(int argc, char **argv)
 	glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 #endif
 
-	GLFWwindow *mainwindow = glfwCreateWindow(600, 600, "2023xxxx_QingXi_Exp3", NULL, NULL);
+	GLFWwindow *mainwindow = glfwCreateWindow(600, 600, "2023270173_Elaine_lab3", NULL, NULL);
 	if (mainwindow == NULL)
 	{
 		std::cout << "Failed to create GLFW window!" << std::endl;
